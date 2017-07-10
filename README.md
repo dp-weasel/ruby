@@ -1,4 +1,4 @@
-#ruby LOL#
+#ruby LOL2.0#
 
 ##Purpose##
 
