@@ -1,6 +1,6 @@
-#ruby LOL2.0#
+# ruby LOL2.0
 
-##Purpose##
+## Purpose
 
 The purpose of this project is to provide information and educational exercises for anyone that wants to explore the Ruby language. Rather than overwhelm you with text, my goal is to provide lots of code snippets and a minimum working knowledge for a given skill level. If you need to dive deeper into the details of Ruby, there are plenty of books and other resources freely available online.
 
